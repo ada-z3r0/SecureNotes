@@ -4,9 +4,9 @@ Herramienta experimental para el análisis de formatos de logs cifrados propieta
 
 ## Estado del Proyecto
 
-**ALPHA.** No usar en entornos de producción.
+**ALPHA.** No usar en entornos de producción. 
 
-## Uso
+## Usos
 
 El parser actualmente solo soporta logs de `TIPO-3` y extrae timestamps y IDs de usuario.
 
